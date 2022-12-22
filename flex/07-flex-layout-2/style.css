@@ -37,7 +37,6 @@ body {
   background: royalblue;
   flex: none;
   padding: 16px;
-  align-content: flex-start;
 }
 
 .sidebar ul li {
